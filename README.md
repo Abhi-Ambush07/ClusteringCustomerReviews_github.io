@@ -1,3 +1,5 @@
+CLUSTERING CUSTOMER REVIEWS FOR MARKET RESEARCH
+
 1.	Data Collection
 2.	Data Pre-processing
 3.	Model Selection
